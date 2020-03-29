@@ -22,12 +22,13 @@ defaults:
       is_post: true
 
 topics:
-  - name: Web design
+  - name: Materials 
+    github_name: Materials
 
-  - name: CSS
-    github_name: css
+  - name: Designer Contributions
+    github_name: Designers
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Sass
-    github_name: sass
+  - name: Manufacturers
+    github_name: producers
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
