@@ -25,7 +25,8 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects: katandduck
+    projects: 
+    - katandduck
     # - repo-name
 
 # social_media:
